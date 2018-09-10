@@ -1,0 +1,13 @@
+﻿  ScnMgr.cpp
+d:\수업\게임 소프트웨어\simplegame\simplegame\scnmgr.cpp(35): warning C4101: 'minY' :참조되지 않은 지역 변수입니다.
+d:\수업\게임 소프트웨어\simplegame\simplegame\scnmgr.cpp(35): warning C4101: 'maxY' :참조되지 않은 지역 변수입니다.
+d:\수업\게임 소프트웨어\simplegame\simplegame\scnmgr.cpp(35): warning C4101: 'maxX' :참조되지 않은 지역 변수입니다.
+d:\수업\게임 소프트웨어\simplegame\simplegame\scnmgr.cpp(35): warning C4101: 'minX' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  SimpleGame.cpp
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  object.cpp
+  SimpleGame.vcxproj -> D:\수업\게임 소프트웨어\SimpleGame\x64\Debug\SimpleGame.exe
+  SimpleGame.vcxproj -> D:\수업\게임 소프트웨어\SimpleGame\x64\Debug\SimpleGame.pdb (Partial PDB)
